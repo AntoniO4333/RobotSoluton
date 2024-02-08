@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleRobotApp/1.0.0": {
+        "dependencies": {
+          "RobotLibrary2": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleRobotApp.dll": {}
+        }
+      },
+      "RobotLibrary2/1.0.0": {
+        "runtime": {
+          "RobotLibrary2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleRobotApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

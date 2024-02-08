@@ -1,0 +1,5 @@
+G:\3 курс\РазработкаПМ 6 семестр\RobotProjectSolution\RobotLibrary\obj\Debug\net6.0\RobotLibrary.csproj.AssemblyReference.cache
+G:\3 курс\РазработкаПМ 6 семестр\RobotProjectSolution\RobotLibrary\obj\Debug\net6.0\RobotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\3 курс\РазработкаПМ 6 семестр\RobotProjectSolution\RobotLibrary\obj\Debug\net6.0\RobotLibrary.AssemblyInfoInputs.cache
+G:\3 курс\РазработкаПМ 6 семестр\RobotProjectSolution\RobotLibrary\obj\Debug\net6.0\RobotLibrary.AssemblyInfo.cs
+G:\3 курс\РазработкаПМ 6 семестр\RobotProjectSolution\RobotLibrary\obj\Debug\net6.0\RobotLibrary.csproj.CoreCompileInputs.cache
